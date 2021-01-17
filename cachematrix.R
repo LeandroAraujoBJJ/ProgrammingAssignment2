@@ -1,4 +1,4 @@
-## The following functions will (1) calculate and cache the invertible matrix for a given data and (2) if not in the cache, cacheSolve will do the calculation
+## The following functions will calculate and cache the invertible matrix for a given data and, if not in the cache, the second function will do the calculation
 
 ## Calculate and cache the invertible matrix for a given data
 
